@@ -5,13 +5,13 @@
   <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="animated" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chitravk521&label=Profile%20views&color=0e75b6&style=flat" alt="chitravk521" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChitraVKumar&label=Profile%20views&color=0e75b6&style=flat" alt="ChitraVKumar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chitravk521" alt="chitravk521" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChitraVKumar" alt="ChitraVKumar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chitra_tale_begins" target="blank"><img src="https://img.shields.io/twitter/follow/chitra_tale_begins?logo=twitter&style=for-the-badge" alt="chitra_tale_begins" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chitra31224557" target="blank"><img src="https://img.shields.io/twitter/follow/chitra31224557?logo=twitter&style=for-the-badge" alt="chitra31224557" /></a> </p>
 
-- 🔭 I’m currently working on [REST and RESTful API](https://github.com/chitravk521/FLASK_RESTful_API.git)
+- 🔭 I’m currently working on [REST and RESTful API](https://github.com/ChitraVKumar/FLASK_RESTful_API.git)
 - 🔭 Also working on improving my GitHub profile and a career change into Web Development.
 
 - 🌱 Everyday learning **Everything about Web Development including API Development, Data Structures and Algorithm**
@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chitra_tale_begins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chitra_tale_begins" height="30" width="40" /></a>
+<a href="https://twitter.com/chitra31224557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chitra31224557" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chitra v kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chitra v kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/kilter.clicks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kilter.clicks" height="30" width="40" /></a>
 </p>
