@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chitra V Kumar</h1>
-<h3 align="center">A passionate Web Developer from India, worked as a Game Tester</h3>
+<h3 align="center">A passionate Web Developer from Hyderabad, India.</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="animated" />
