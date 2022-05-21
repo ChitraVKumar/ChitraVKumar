@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chitra V Kumar</h1>
-<h3 align="center">A passionate Web Developer from India who previously worked as a Game Tester at Electronic Arts Private Limited</h3>
+<h3 align="center">A passionate Web Developer from India, worked as a Game Tester</h3>
 
-<img align= "centre" alt="Coding" width= "400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="animated" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitravk521&label=Profile%20views&color=0e75b6&style=flat" alt="chitravk521" /> </p>
 
