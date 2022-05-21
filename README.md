@@ -12,9 +12,9 @@
 <p align="left"> <a href="https://twitter.com/chitra_tale_begins" target="blank"><img src="https://img.shields.io/twitter/follow/chitra_tale_begins?logo=twitter&style=for-the-badge" alt="chitra_tale_begins" /></a> </p>
 
 - 🔭 I’m currently working on [REST and RESTful API](https://github.com/chitravk521/FLASK_RESTful_API.git)
-- 🔭 Working on improving my GitHub profile and a career change into Web Development.
+- 🔭 Also working on improving my GitHub profile and a career change into Web Development.
 
-- 🌱 I’m currently learning **Everything about Web Development including API Development, Data Structures and Algorithm**
+- 🌱 Everyday learning **Everything about Web Development including API Development, Data Structures and Algorithm**
 
 - 📝 I regularly write articles on [https://candlemonk.com/@chitra.vk](https://candlemonk.com/@chitra.vk)
 
