@@ -16,7 +16,7 @@
 
 - 🌱 Everyday learning **Everything about Python including API Development, Data Analytics, Backend Development, Data Structures and Algorithm and Could Computing**
 
-- 📝 I regularly write articles on [https://candlemonk.com/@chitra.vk](https://candlemonk.com/@chitra.vk)
+- 📝 I regularly write articles on [https://candlemonk.com/@chitra.vk](https://candlemonk.com/@chitra.vk) https://kilterthoughts.blogspot.com/ 
 
 - 📫 How to reach me **vchitra521rt@gmail.com**
 
