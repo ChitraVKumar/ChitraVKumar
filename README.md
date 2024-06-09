@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chitra V Kumar</h1>
-<h3 align="center">A passionate Web Developer from Hyderabad, India.</h3>
+<h1 align="center">Hi 👋, I'm Chitra Varadarajan Kumar</h1>
+<h3 align="center">A recent Masters graduate in Cloud Computing from University of Leicester, Leicester, United Kingdom.</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="animated" />
@@ -11,16 +11,16 @@
 
 <p align="left"> <a href="https://twitter.com/chitra31224557" target="blank"><img src="https://img.shields.io/twitter/follow/chitra31224557?logo=twitter&style=for-the-badge" alt="chitra31224557" /></a> </p>
 
-- 🔭 I’m currently working on [REST and RESTful API](https://github.com/ChitraVKumar/FLASK_RESTful_API.git)
-- 🔭 Also working on improving my GitHub profile and a career change into Web Development.
+- 🔭 I’m currently working on Backend Development, Game Development using Python, C++.
+- 🔭 Also working on improving my GitHub profile and a career change into Backend Developer, Cloud Engineer.
 
-- 🌱 Everyday learning **Everything about Web Development including API Development, Data Structures and Algorithm**
+- 🌱 Everyday learning **Everything about Python including API Development, Data Analytics, Backend Development, Data Structures and Algorithm and Could Computing**
 
 - 📝 I regularly write articles on [https://candlemonk.com/@chitra.vk](https://candlemonk.com/@chitra.vk)
 
-- 📫 How to reach me **vchitra563@gmail.com**
+- 📫 How to reach me **vchitra521rt@gmail.com**
 
-- 📄 Know about my experiences [https://novoresume.com/editor/resume/408a1800-9ea0-11eb-96c9-0d3e6cf323fc](https://novoresume.com/editor/resume/408a1800-9ea0-11eb-96c9-0d3e6cf323fc)
+- 📄 Know about my experiences https://www.linkedin.com/in/codewithchitra/ 
 
 - ⚡ Fun fact **I can play a Guitar, I love making Travel and Food videos and I am a certified Fitness Trainer.**
 
