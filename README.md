@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/chitra31224557" target="blank"><img src="https://img.shields.io/twitter/follow/chitra31224557?logo=twitter&style=for-the-badge" alt="chitra31224557" /></a> </p>
 
 - 🔭 I’m currently working on Backend Development, Game Development using Python, C++.
-- 🔭 Also working on improving my GitHub profile and a career change into Backend Developer, Cloud Engineer.
+- 🔭 Also working on improving my GitHub profile and a career change into Backend Development, Cloud Engineering and DSAs.
 
 - 🌱 Everyday learning **Everything about Python including API Development, Data Analytics, Backend Development, Data Structures and Algorithm and Could Computing**
 
