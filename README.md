@@ -44,21 +44,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+<!--   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
+  </a> -->
+<!--   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
+  </a> -->
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   </a>
-  <a href="[https://www.djangoproject.com/](https://www.djangoproject.com/)" target="_blank">
+<!--   <a href="[https://www.djangoproject.com/](https://www.djangoproject.com/)" target="_blank">
     <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)" alt="Django" width="40" height="40" />
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" />
-  </a>
+  </a> -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
