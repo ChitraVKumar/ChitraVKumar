@@ -25,7 +25,6 @@
 - 📊 Specializing in **SQL, Python, Power BI** for data extraction, analysis, and visualization.  
 - 🌱 Continuously learning **Machine Learning, Advanced Analytics**, and **Cloud Data Platforms (AWS, Azure)**.  
 - 🚀 Recent projects include **geospatial analysis, KPI optimization**, and **predictive modeling with Random Forest**.  
-- 📝 I write about data science and analytics on [Candlemonk](https://candlemonk.com/@chitra.vk) and [Kilter Thoughts](https://kilterthoughts.blogspot.com/).  
 - 📫 Reach me at **vchitra521rt@gmail.com**  
 - 📄 Learn more about my data analytics journey on [LinkedIn](https://www.linkedin.com/in/codewithchitra/).  
 - ⚡ Fun fact: **I play the guitar, create travel videos, and am a certified fitness trainer - I love finding patterns in everything!**
