@@ -105,9 +105,9 @@ Exploratory analysis and price modelling on property data — uncovering the dri
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChitraVKumar&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ChitraVKumar&theme=tokyonight&no-frame=true&column=7" alt="trophies" />
-</div> -->
+</div>
 
 <br/>
 
