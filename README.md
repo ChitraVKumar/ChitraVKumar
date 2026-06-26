@@ -30,7 +30,7 @@
 - 🎓 **MSc Cloud Computing (Distinction)** — University of Leicester
 - 🛠️ Built BI solutions at **DHL Enviro Solutions (UK)** — Power BI, DAX, ETL pipelines & SAP integration
 - 💻 Full-stack Python background (Django · Flask · React · Node) from **Tandem Digital**
-- 📈 Off the clock, I build custom **trading indicators in Pine Script** and analyse the markets
+- 🔍 I love digging into data to find the *why* behind the numbers — from sales to property markets
 - ⚡ Fun fact: I play guitar 🎸, shoot photography 📷, and I'm a certified fitness trainer 🏋️
 
 <br/>
@@ -42,7 +42,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Pine Script](https://img.shields.io/badge/Pine%20Script-131722?style=for-the-badge&logo=tradingview&logoColor=white)
 
 **BI & Visualization**
 
@@ -88,13 +87,9 @@
 Interactive sales analytics on the Kaggle **Superstore** dataset — revenue trends, regional performance, and product KPIs, modelled in Python and visualised in Power BI.
 > `Python` · `Power BI` · `Pandas` · `DAX`
 
-### 💬 Twitter Sentiment Analysis
-End-to-end NLP pipeline classifying tweet sentiment with **VADER, Naive Bayes, Logistic Regression & Random Forest**, served through an interactive **Streamlit** dashboard.
-> `Python` · `scikit-learn` · `NLP` · `Streamlit`
-
-### 📈 Trading Indicators — Pine Script
-A suite of custom **TradingView** indicators for futures analysis: Volume Profile (HVN/LVN), CVD divergence, and multi-anchor VWAP — built with a forward-pass architecture.
-> `Pine Script` · `Technical Analysis` · `Quant`
+### 🏠 Real Estate Market Analysis
+Exploratory analysis and price modelling on property data — uncovering the drivers of housing prices across locations, with trends and segment KPIs surfaced in an interactive Power BI dashboard.
+> `Python` · `Pandas` · `Power BI` · `Regression`
 
 <br/>
 
