@@ -106,7 +106,7 @@ Exploratory analysis and price modelling on property data — uncovering the dri
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChitraVKumar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChitraVKumar&theme=tokyonight&no-frame=true&column=7" alt="trophies" />
 </div>
 
 <br/>
